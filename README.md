@@ -13,7 +13,7 @@
 
 👨‍💻 Specialization in **Web Development**
 
-💡 Interested in **PHP, JavaScript, React.js, Node.js, MySQL, MongoDB and C++**
+💡 Interested in **PHP,JAVA, JavaScript, React.js, Node.js, MySQL, C and C++**
 
 🎯 Goal: **Become a Software Development Engineer (SDE)**
 

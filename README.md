@@ -113,19 +113,14 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sudhakargupta4501&theme=tokyonight&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudhakargupta4501&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Sudhakargupta4501/Sudhakargupta4501/output/github-contribution-grid-snake.svg">
-
+  <img src="https://raw.githubusercontent.com/Sudhakargupta4501/Sudhakargupta4501/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
